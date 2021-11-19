@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(94, 215, 252, 0.514);
+    text-align: center;
+}
+
+.text {
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+}
+
+.p1 {
+    color: rgb(212, 141, 8);
+}
+
+.p2 {
+    color: rgb(18, 221, 18);
+}
+
+.inputField {
+    margin: 30px;    
+}
+
+#newItem {
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 20px;
+}
+
+#submit {
+    width: 50px;
+    height: 40px;
+    background-color: rgb(47, 131, 209);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border-style: none;
+}
+
+.input {
+    margin: 0 100px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
